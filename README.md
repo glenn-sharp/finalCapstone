@@ -15,7 +15,7 @@ User-friendly Interface: Intuitive and easy-to-use interface for seamless naviga
 
 Installation:
 
-Clone the repository from GitHub: git clone https://github.com/yourusername/task_manager.git
+Clone the repository from GitHub: git clone https://github.com/glenn-sharp/task_manager.git
 
 Navigate to the project directory: cd task_manager
 
