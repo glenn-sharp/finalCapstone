@@ -1,4 +1,4 @@
-                                                                                         Task Manager
+                                                                              Task Manager
 
 Description:
 Task Manager is a small-capstone project aimed at providing small businesses with a simple and efficient tool to manage tasks assigned to each member of their team. It facilitates the organization and tracking of tasks, ensuring smooth coordination and progress monitoring within the team.
@@ -42,7 +42,6 @@ Push to the branch: git push origin feature/my-feature.
 Submit a pull request.
 License:
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Authors:
 
